@@ -58,6 +58,10 @@
   <dd>Microsoft Office</dd>
 </dl>
 
+### My Work
+
+![alt text](https://scontent.fbkk22-3.fna.fbcdn.net/v/t1.0-9/66142590_10156140610646560_2357618775542464512_o.jpg?_nc_cat=110&_nc_sid=8bfeb9&_nc_eui2=AeFwgQOQ5NRIv4RhJh9p652bt8bYaBCtOZW3xthoEK05lVYr1llJS_PN154F8YQf2nyD2edqj-gzWpiUlCjaQCuw&_nc_ohc=S0lskCHfKv4AX9g3L44&_nc_oc=AQlsvy6vI78x6yfsPL3SXYNsc2UjspuRSkL4jwRzt57d34wy6v5iq4wZDCdgl40wWVs&_nc_ht=scontent.fbkk22-3.fna&oh=90199f035b73b520f6ae1dcaa5b36cc8&oe=5FAC9E4C "Working")
+
 ##### Can you contact me.
 
 [![alt text][1.1]][1]
