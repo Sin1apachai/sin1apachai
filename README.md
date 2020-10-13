@@ -13,7 +13,7 @@
 
 [1.1]: https://i.imgur.com/jnnL8Uy.png
 [2.1]: https://i.imgur.com/nIiaG46.png
-[3.1]: https://i.imgur.com/BzG8QoD.png
+[3.1]: https://i.imgur.com/ncWi6Ts.png
 
 [1]: https://www.instagram.com/halleiei/?hl=th
 [2]: https://www.facebook.com/sinlapachai.lowpaiboon/
