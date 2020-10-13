@@ -55,9 +55,7 @@
   </table>
 
   <dt>Program Skill</dt>
-  <br/>
-  <dt>Microsoft Office</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dd>Microsoft Office</dd>
 </dl>
 
 ##### I hope you will contact me.
