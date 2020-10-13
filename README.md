@@ -8,8 +8,7 @@
 ##### I hope you will contact me.
 
 [1.1]: https://i.imgur.com/jnnL8Uy.png (twitter icon with padding)
-https://i.imgur.com/jnnL8Uy.png
-[![alt text][1.1]][1]
+[![alt text][1.1]][https://i.imgur.com/jnnL8Uy.png]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
