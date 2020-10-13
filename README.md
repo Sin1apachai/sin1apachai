@@ -7,7 +7,8 @@
 
 ##### I hope you will contact me.
 
-[![alt text](https://i.imgur.com/jnnL8Uy.png "My IG")(https://www.instagram.com/halleiei/?hl=th)]
+[1.1]: https://i.imgur.com/jnnL8Uy.png
+[1]: https://www.instagram.com/halleiei/?hl=th
 <!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
