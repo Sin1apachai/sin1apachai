@@ -17,7 +17,7 @@
 [1]: https://www.instagram.com/halleiei/?hl=th
 [2]: https://www.facebook.com/sinlapachai.lowpaiboon/
 <br/>
-[3.1]: https://i.imgur.com/ncWi6Ts.png ######: sinlapachai.hon@gmail.com
+[3.1]: https://i.imgur.com/ncWi6Ts.png sinlapachai.hon@gmail.com
 <!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
