@@ -8,9 +8,16 @@
 ##### I hope you will contact me.
 
 [![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
 [1.1]: https://i.imgur.com/jnnL8Uy.png
+[2.1]: https://i.imgur.com/nIiaG46.png
+[3.1]: https://i.imgur.com/BzG8QoD.png
+
 [1]: https://www.instagram.com/halleiei/?hl=th
+[2]: https://www.facebook.com/sinlapachai.lowpaiboon/
+[3]: sinlapachai.hon@gmai.com
 <!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
