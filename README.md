@@ -1,7 +1,10 @@
 ## Hi there 👋 
 ### I'm Hall Welcome to my github
 
-###### Hello I'm Developer in Bangkok. I'm like to learn about programming language but my English skill is weak, So slow to learn
+###### I'm Developer in Bangkok. I'm like to learning about programming language but my English skill is weak, So slow to learn
+###### My hobbits is play bbgun, fps game, listen music, series and anime.
+
+###### I'm rarely updated to github.I hope you will contact me.
 <!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
