@@ -7,13 +7,8 @@
 
 ##### I hope you will contact me.
 
-[1.1]: https://i.imgur.com/jnnL8Uy.png (twitter icon with padding)
-[![alt text][1.1]][https://i.imgur.com/jnnL8Uy.png]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+[1.1]: https://i.imgur.com/jnnL8Uy.png
+
 <!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
