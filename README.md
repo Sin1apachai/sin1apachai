@@ -6,17 +6,33 @@
 ###### I'm rarely updated to github.
 
 #### My Skill
-
 <dl>
   <dt>Programming Language</dt>
+  <br/>
   <table>
     <tr>
-      <th>Month</th>
-      <th>Savings</th>
+      <td>Python</td>
+      <td>C#</td>
+      <td>C++</td>
+      <td>C</td>
     </tr>
     <tr>
-      <td>January</td>
-      <td>$100</td>
+      <td>NodeJS</td>
+      <td>JavaScript</td>
+      <td>Html</td>
+      <td>CSS</td>
+    </tr>
+    <tr>
+      <td>SASS</td>
+      <td>Odoo Framework</td>
+      <td>Vue JS</td>
+      <td>React</td>
+    </tr>
+    <tr>
+      <td>Knime</td>
+      <td>Airflow</td>
+      <td>Arduino</td>
+      <td>Raspberry pi</td>
     </tr>
   </table>
 
