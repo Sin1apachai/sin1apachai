@@ -6,7 +6,7 @@
 ###### I'm rarely updated to github.
 
 ##### I hope you will contact me.
-![alt text](https://i.pinimg.com/564x/fb/bb/b4/fbbbb454aaff1e476204abae7ec19518.jpg "Logo Title Text 1")
+![alt text](https://www.freepngimg.com/thumb/social_media/74310-instagram-icons-media-computer-social-logo-thumb.png "ig")
 <!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
