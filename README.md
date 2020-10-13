@@ -1,6 +1,8 @@
 ## Hi there 👋 
 ### I'm Hall Welcome to my github
-<!--
+
+###### Hello I'm Developer in Bangkok. I'm like to learn about programming language but my English skill is weak, So slow to learn
+<!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
