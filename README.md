@@ -5,6 +5,16 @@
 ###### My hobbits is play bbgun, fps game, listen music, series and anime.
 ###### I'm rarely updated to github.
 
+#### My Skill
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
 ##### I hope you will contact me.
 
 [![alt text][1.1]][1]
