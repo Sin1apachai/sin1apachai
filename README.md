@@ -7,8 +7,8 @@
 
 ##### I hope you will contact me.
 
-[1.1]: https://i.imgur.com/jnnL8Uy.png (ig)
-
+Inline-style: 
+![alt text](https://i.imgur.com/jnnL8Uy.png "Logo Title Text 1")
 <!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
