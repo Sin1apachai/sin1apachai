@@ -7,8 +7,7 @@
 
 ##### I hope you will contact me.
 
-![alt text][logo]
-[logo]: https://image.flaticon.com/icons/png/128/174/174855.png "Logo Title Text 2"
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 <!-- 
 **Sin1apachai/sin1apachai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
