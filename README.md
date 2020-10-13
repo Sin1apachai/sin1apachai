@@ -7,7 +7,7 @@
 
 #### My Skill
 <dl>
-  <dt>Programming Language</dt>
+  <dt>Programming Skill</dt>
   <br/>
   <table>
     <tr>
@@ -34,9 +34,29 @@
       <td>Arduino</td>
       <td>Raspberry pi</td>
     </tr>
+    <tr>
+      <td>Microsoft SharePoint APIs</td>
+      <td>Power BI (Settings, APIs)</td>
+      <td>Tableau (Setting)</td>
+      <td>Docker</td>
+    </tr>
+    <tr>
+      <td>Nginx</td>
+      <td>Linux OS (Basic)</td>
+      <td>Windows OS (Basic)</td>
+      <td>Unix OS (Basic)</td>
+    </tr>
+    <tr>
+      <td>ASP.Net Core</td>
+      <td>ASP.Net Framework</td>
+      <td>Visual Basic</td>
+      <td>Golang</td>
+    </tr>
   </table>
 
-  <dt>Markdown in HTML</dt>
+  <dt>Program Skill</dt>
+  <br/>
+  <dt>Microsoft Office</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
