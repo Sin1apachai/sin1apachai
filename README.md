@@ -59,7 +59,7 @@
 
 ### My Work
 
-![alt text](https://scontent.fbkk22-6.fna.fbcdn.net/v/t1.0-9/87253774_10212768301962284_7261372744875376640_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=84a396&_nc_eui2=AeHYVjoOMQojDPoxY5EOSQUtGsjlo_U4GkYayOWj9TgaRtMsAXQKyGpeuigqsg4ikzTg2t0k3KfBUxQxXLPA74Ty&_nc_ohc=Zolb5DjA8b0AX9h9jau&_nc_ht=scontent.fbkk22-6.fna&oh=ffaccca3b93a1f29c00902cfc9beba31&oe=606B08C7)
+![alt text](https://scontent.fbkk22-3.fna.fbcdn.net/v/t1.0-9/66142590_10156140610646560_2357618775542464512_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=8bfeb9&_nc_eui2=AeFwgQOQ5NRIv4RhJh9p652bt8bYaBCtOZW3xthoEK05lVYr1llJS_PN154F8YQf2nyD2edqj-gzWpiUlCjaQCuw&_nc_ohc=Dk9o72vmXrcAX-42iCl&_nc_oc=AQk-inQYFmxQIR3fcR8-jLbhGx8kznsLYMCMEArbVOj6qJydy7QNxWuUqsPYquNj6RerG-8c8LvCNtqqPuyvCwD_&_nc_ht=scontent.fbkk22-3.fna&oh=356b14938c2a873e4e33db847e59d526&oe=606A764C)
 
 ##### Can you contact me.
 
