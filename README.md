@@ -1,9 +1,6 @@
 ## Hi there 👋 
 ### I'm Hall Welcome to my github
 
-### Hello there!
-
-### My name is Chairoj Lorpaiboon, You can just call me Hall. 
 ### I graduated with master degree in computer science (thesis is about customer segmentation by FP-Growth & RFM model & combine K-means) and bachelor degree in computer engineer.
 
 ### I have experiences in various areas:
