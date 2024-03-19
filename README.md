@@ -8,8 +8,6 @@
 ### - Perform in requirement gathering processes and system analysis including workflow diagram & data dictionary.
 ### - Analyze insight data & visualize it in various tools such as Tableau, Odoo.
 
-### Thank you
-
 <dl>
   <dt>Programming Skill</dt>
   <br/>
