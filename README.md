@@ -1,10 +1,19 @@
 ## Hi there 👋 
 ### I'm Hall Welcome to my github
 
-###### I'm Developer in Bangkok. I'm like to learning about programming language but my English skill is weak, So slow to learn
-###### My hobbits is play bbgun, fps game, listen music, series and anime.
-###### I'm rarely updated to github.
+### Hello there!
 
+### My name is Chairoj Lorpaiboon, You can just call me Hall. 
+### I graduated with master degree in computer science (thesis is about customer segmentation by FP-Growth & RFM model & combine K-means) and bachelor degree in computer engineer.
+
+### I have experiences in various areas:
+### - Develop ERP platforms to manage multi-organization & branches such as inventory, manufacturing, accounting, POS, etc.
+### - Perform in requirement gathering processes and system analysis including workflow diagram & data dictionary.
+### - Analyze insight data & visualize it in various tools such as Tableau, Odoo.
+
+I seeking for opportunities about Data Engineer, System Analysis, Business Analysis.
+
+Thank you
 <dl>
   <dt>Programming Skill</dt>
   <br/>
