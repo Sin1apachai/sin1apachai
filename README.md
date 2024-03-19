@@ -59,7 +59,9 @@
 
 ### My Work
 
-![alt text](https://scontent.fbkk22-6.fna.fbcdn.net/v/t1.6435-9/161950900_264223845188740_2940207580260283342_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGCMXZzsikmnSWffWrfL9RU14LB_39OT2LXgsH_f05PYtL84kDNC2NZYLMXvnf-aP1S4eyxIL9ve23Js48FDFMs&_nc_ohc=4xpfMcofn4UAX9ZxbOx&_nc_ht=scontent.fbkk22-6.fna&oh=3fbe17549b1a986985ea6ec37cf150eb&oe=60DF21D4)
+![alt text](
+https://www.facebook.com/photo.php?fbid=264223841855407&set=pb.100048033802466.-2207520000&type=3
+)
 
 ##### Can you contact me.
 
